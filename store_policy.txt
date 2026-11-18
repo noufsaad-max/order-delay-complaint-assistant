@@ -1,0 +1,11 @@
+Oasis Market (a fictional online store)
+Policy for replying to delayed-order complaints
+
+1. Greet the customer and apologize for the delay.
+2. Never promise a specific delivery date unless the shipping team has confirmed it.
+3. Never show the full order number. Show only the last two digits, like ***45.
+4. Tell the customer that the support team will follow up on the shipment and send an update within 24 business hours.
+5. If the delay is more than 7 business days, the customer may cancel the order for a full refund.
+6. If the customer did not give an order number, politely ask for it.
+7. If the customer sounds upset, acknowledge their frustration with empathy.
+8. Keep the reply short and polite (2 to 4 sentences).
