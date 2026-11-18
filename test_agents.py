@@ -154,3 +154,4 @@ def test_logs_do_not_contain_private_data(caplog):
     assert "98765" not in all_logs
     assert "three days" not in all_logs
     assert "Review Agent" in all_logs  # Agent names are logged
+    
